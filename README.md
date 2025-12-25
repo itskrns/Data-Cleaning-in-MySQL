@@ -83,9 +83,4 @@ SQL-based data cleaning techniques are applied to generate a clean, analysis-rea
 
 ## Notes
 - Imputation logic can be customized based on business rules  
-- The cleaned dataset is suitable for analytics, dashboards, and machine learning workflows  
 
----
-
-## License
-This project is open for **educational and non-commercial use**.
